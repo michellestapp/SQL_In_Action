@@ -36,4 +36,4 @@ Make sure you have covered enough content to meet the prerequisites before start
 
 > ‼️ Make sure to check out the walk-through video on your course portal to see this setup process happening live!
 
-
+CHECKING TO SEE IF MY GITHUB IS WORKING!

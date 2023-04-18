@@ -36,4 +36,10 @@ Make sure you have covered enough content to meet the prerequisites before start
 
 > ‼️ Make sure to check out the walk-through video on your course portal to see this setup process happening live!
 
-CHECKING TO SEE IF MY GITHUB IS WORKING!
+-- <<<<<<<<<<<<<<<<<<<<<< PROBLEM 11 >>>>>>>>>>>>>>>>>>>>>>>
+-- <<<<<<<<<<<<<<<<<<<<<<< WRAP UP >>>>>>>>>>>>>>>>>>>>>>>>>
+-- What do you think makes a successful AirBnB rental in this market? What factors seem to be at play the most?
+-- Write a few sentences and include them with your project submission in the README file 
+
+I tend to believe that reviews are the key to making or breaking any purchase - regardless of what the product is that is being sold. Reviews come in from two sources: those that are very happy and those that are VERY unhappy. So basing popularity on number of reviews is ineffective. A successful AirBnB rental is one that is accessible year round, competitively priced, easily found via GPS, clean, with owners that are quick to repond and helpful when help is needed. 
+

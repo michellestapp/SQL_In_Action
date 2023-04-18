@@ -127,3 +127,5 @@
 SELECT host_id, AVG(price) AS average
 FROM final_airbnb
 GROUP BY host_id;
+
+--  ADDING A LINE TO SEE IF GITHUB HAS UPDATED VERSION --

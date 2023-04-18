@@ -124,8 +124,13 @@
 -- Find the the percent above or below each listing is compared to the average price for all listings.
 -- HINT: No hints! It's a bonus for a reason :)
 
-SELECT host_id, AVG(price) AS average
-FROM final_airbnb
-GROUP BY host_id;
+
+
+SELECT t.host_id, t.host_name, t.price, ROUND((t.price - a.average)/a.average * 100,0) AS Perc_Diff_from_Average_Price
+FROM final_airbnb t
+JOIN
+(SELECT AVG(price) AS average
+FROM final_airbnb) a
+;
 
 --  ADDING A LINE TO SEE IF GITHUB HAS UPDATED VERSION --
